@@ -10,7 +10,7 @@ public class Main
         list.addString("Good morning");
         list.addString("Good evening");
 
-        list.removeString("Hi");
+     
 
         System.out.println(list.list);
         System.out.println(list.reverseStrings());
